@@ -1,0 +1,2 @@
+# effective-memory
+git activity
